@@ -28,4 +28,4 @@ $ npm run api
 
 ## License
 
-MIT © [Andrej Gajdos](http://andrejgajdos.com)
+MIT
